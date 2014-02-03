@@ -1,0 +1,23 @@
+body {
+	font-size: 10px;
+}
+
+.small {
+	font-size: 0.8em;
+}
+
+table.streamResults {
+	border: solid 1px black;
+	text-align: center;
+	vertical-align: top;
+	width: 90%;
+}
+
+table.streamResults td,
+table.streamResults th {
+	border: solid 1px black;
+}
+
+.loading {
+	text-align: center;
+}
